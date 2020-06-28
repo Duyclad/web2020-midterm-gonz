@@ -11,11 +11,11 @@ Thong tin lien he: duyclad@gmail.com , 4401104006@student.hcmue.edu.vn
 
 2/
 
-MSSV:
+MSSV:44.01.104.004
 
 Ho ten: Nguyen Duong Hong Dieu
 
-Thong tin lien he:
+Thong tin lien he:hongdieupvt2000@gmail.com, 4401104004@student.hcmue.edu.vn
 
 3/
 
