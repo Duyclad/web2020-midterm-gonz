@@ -19,11 +19,10 @@ Thong tin lien he:hongdieupvt2000@gmail.com, 4401104004@student.hcmue.edu.vn
 
 3/
 
-MSSV:
-
+MSSV:44.01.104.058
 Ho ten: Nguyen Thi Uyen Cuong
 
-Thong tin lien he:
+Thong tin lien he:nguyenthiuyencuong@gmail.com, 4401104058@student.hcmue.edu.vn
 
 4/
 
