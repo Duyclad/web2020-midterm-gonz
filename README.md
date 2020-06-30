@@ -35,8 +35,8 @@ Thong tin lien he:duy3271@gmail.com, 4401104070@student.hcmue.edu.vn
 
 5/ 
 
-MSSV:
+MSSV:44.01.104.011
 
 Ho ten: Pham Thanh Dat
 
-Thong tin lien he:
+Thong tin lien he: phamdat27092000@gmail.com, 4401104011@student.hcmup.edu.vn
