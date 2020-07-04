@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>Thêm sản phẩm</title>
+        
+        
+        
+    </head>
+    <body>
+        <div class="login">
+            <form name="frmGuiYKien" method="POST" action="abc.phb">
+                <h2 >Thêm sản phẩm</h2>
+                <div>
+                    <label>Tên sản phẩm:</label>
+                    <input type="text"  />
+                </div>
+                <div>
+                    <label>Đổi tên sản phẩm thành:</label>
+                    <input type="text"  />
+                </div>
+                <div>
+                    <label>Mã Sản phẩm:</label>
+                    <input type="text"  />
+                </div>
+                <div>
+                    <label>Đổi mã sản phẩm thành:</label>
+                    <input type="text"  />
+                </div>
+                <div>
+                    <label>Đổi ảnh sản phẩm:</label>
+                    <input type="file">
+                </div>
+                <div>
+                    <label>Loại:</label>
+                    <select name="quequan" multiple>
+                        <optgroup >
+                            <option value="HCM">Hồ Chí Minh</option>
+                        </optgroup>
+                        <optgroup >
+                            <option value="HN">Hà Nội</option>
+                        </optgroup>
+                        <optgroup >
+                            <option value="ĐN">Đà Nẵng</option>
+                        </optgroup>
+                        <optgroup >
+                            <option value="BT">Bến Tre</option>
+                        </optgroup>
+                    </select>
+                </div>
+                
+                <div>
+                    <label>Ghi chú:</label>
+                    <input type="hidden" value="1234" name="mabimat">
+                    <textarea id="h" rows="4" ></textarea> <br>
+                </div>
+                <div>
+                    <button id="button">Sửa</button>
+                    <button id="reset">Reset</button>
+                </div>
+                
+            </form>
+        </div>
+    </body>
+</html>
