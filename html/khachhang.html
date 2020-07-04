@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8"/>
+        <title>Thêm sản phẩm</title>
+        
+        
+        
+    </head>
+    <body>
+        <div class="login">
+            <form name="frmGuiYKien" method="POST" action="abc.phb">
+                <h2 >Thong tin khách hàng</h2>
+                <div>
+                    <label>Mã khách hàng:</label>
+                    <input type="text"  placeholder="Mã khách hàng"/>
+                </div>
+                <div>
+                    <label>Tên khách hàng:</label>
+                    <input type="text"  placeholder="Tên khách hàng"/>
+                </div>
+                <div>
+                    <label>Số điện thoại:</label>
+                    <input type="text"  />
+                </div>
+                <div>
+                    <label>Mã Sản phẩm:</label>
+                    <input type="text"  />
+                </div>
+               
+                <div>
+                    <label>Email:</label>
+                    <input type="text" name="email" id="email"/>
+                    <select name="email">
+                        <option value="gmail">@gmail.com</option>
+                        <option value="email">@yahoo.com</option>
+                    </select>
+                </div>
+                
+                <div>
+                    <label>Ghi chú:</label>
+                    <input type="hidden" value="1234" name="mabimat">
+                    <textarea id="h" rows="4" ></textarea> <br>
+                </div>
+                <div>
+                    <button id="button">Thêm</button>
+                    <button id="reset">Reset</button>
+                </div>
+                
+            </form>
+        </div>
+    </body>
+</html>
