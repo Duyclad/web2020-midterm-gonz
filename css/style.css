@@ -1,0 +1,21 @@
+.login{
+    background-color: rgb(170, 170, 170);
+}
+h2{
+    color: chartreuse;
+    text-align: center;
+    font-size: 50px;
+}
+label{
+    color: rgb(0, 0, 0);
+    padding-left: 50px;
+}
+
+
+button{
+    color: #000;
+    padding-left:30px;
+}
+ button div{
+     padding-left: 50px;
+ }
